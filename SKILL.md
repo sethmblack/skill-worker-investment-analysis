@@ -3,8 +3,8 @@ name: worker-investment-analysis
 description: Analyze worker and team investment decisions through the lens of strategic value creation rather than cost minimization.
 license: MIT
 metadata:
-  version: 1.0.5330
   author: sethmblack
+  version: 1.0.5331
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - worker-investment-analysis
